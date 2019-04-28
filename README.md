@@ -13,3 +13,5 @@ To Run the solution to the first question, run the following command
 
 To Run the solution to the second question, run the following command
 `$ python part2.py`
+
+The file gt_new.txt contains the new annotations for the GTSDB dataset with the class pn included.
